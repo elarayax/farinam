@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "unidad"
+  },
+  {
+    "id": 2,
+    "nombre": "kilo"
+  },
+  {
+    "id": 3,
+    "nombre": "kilos"
+  }
+]

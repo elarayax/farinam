@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "efectivo",
+    "comision": "0",
+    "id": 1
+  },
+  {
+    "nombre": "transferencia",
+    "comision": "0",
+    "id": 2
+  }
+]

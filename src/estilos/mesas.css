@@ -1,0 +1,51 @@
+section.zona{
+    display: none;
+    padding: 0 20px;
+}
+
+section.zona.actual{
+    display: block;
+}
+
+.mesas{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.mesas .mesa{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    background-color: #fff;
+}
+
+.mesas .mesa.disponible{
+    background-color: green;
+    color: #fff;
+}
+
+.mesas .mesa.reservada{
+    background-color: yellow;
+    color: #000;
+}
+
+.mesas .mesa.ocupada{
+    background-color: red;
+    color: #fff;
+}
+
+.mesas .mesa:hover{
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.zona .titulo-zona{
+    gap: 20px;
+    display: flex;
+    align-items: center;
+}

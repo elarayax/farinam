@@ -1,0 +1,273 @@
+[
+  {
+    "idMesa": "accd",
+    "platos": [
+      {
+        "id": 5,
+        "nombre": "hamburguesa 2",
+        "tipoPlato": "hamburguesas",
+        "ingredientes": [
+          {
+            "id": 1,
+            "nombre": "queso chedar",
+            "cantidad": "2"
+          },
+          {
+            "id": 3,
+            "nombre": "pan hamburguesa",
+            "cantidad": "1"
+          }
+        ],
+        "precio": "2000",
+        "cantidad": 1,
+        "observaciones": ""
+      }
+    ],
+    "idMozo": 1,
+    "estadoPedido": "pendiente",
+    "precioTotal": 2000,
+    "id": 1,
+    "estado": "en proceso",
+    "horaInicio": "2024-11-04T18:16:31.566Z"
+  },
+  {
+    "idMesa": "accd",
+    "platos": [
+      {
+        "id": 1,
+        "nombre": "hamburguesa chedars",
+        "tipoPlato": "hamburguesas",
+        "ingredientes": [
+          {
+            "id": 1,
+            "nombre": "queso chedar",
+            "cantidad": "1"
+          },
+          {
+            "id": 3,
+            "nombre": "pan hamburguesa",
+            "cantidad": "1"
+          },
+          {
+            "id": 6,
+            "nombre": "hamburguesa",
+            "cantidad": "1"
+          }
+        ],
+        "precio": "2000",
+        "cantidad": 1,
+        "observaciones": ""
+      }
+    ],
+    "idMozo": 1,
+    "estadoPedido": "pendiente",
+    "precioTotal": 2000,
+    "id": 2,
+    "estado": "en proceso",
+    "horaInicio": "2024-11-04T18:16:45.318Z"
+  },
+  {
+    "idMesa": "mesa 5",
+    "platos": [
+      {
+        "id": 1,
+        "nombre": "hamburguesa chedars",
+        "tipoPlato": "hamburguesas",
+        "ingredientes": [
+          {
+            "id": 1,
+            "nombre": "queso chedar",
+            "cantidad": "1"
+          },
+          {
+            "id": 3,
+            "nombre": "pan hamburguesa",
+            "cantidad": "1"
+          },
+          {
+            "id": 6,
+            "nombre": "hamburguesa",
+            "cantidad": "1"
+          }
+        ],
+        "precio": "2000",
+        "cantidad": 3,
+        "observaciones": "una sin gluten"
+      },
+      {
+        "id": 4,
+        "nombre": "otra gurguer",
+        "tipoPlato": "hamburguesas",
+        "ingredientes": [
+          {
+            "id": 8,
+            "nombre": "queso mosasrella",
+            "cantidad": "1"
+          },
+          {
+            "id": 3,
+            "nombre": "pan hamburguesa",
+            "cantidad": "1"
+          },
+          {
+            "id": 6,
+            "nombre": "hamburguesa",
+            "cantidad": "1"
+          }
+        ],
+        "precio": "2000",
+        "cantidad": 4,
+        "observaciones": ""
+      }
+    ],
+    "idMozo": 1,
+    "estadoPedido": "pendiente",
+    "precioTotal": 14000,
+    "id": 3,
+    "estado": "en proceso",
+    "horaInicio": "2024-11-04T18:19:13.580Z"
+  },
+  {
+    "idMesa": "mesa 5",
+    "platos": [
+      {
+        "id": 5,
+        "nombre": "hamburguesa 2",
+        "tipoPlato": "hamburguesas",
+        "ingredientes": [
+          {
+            "id": 1,
+            "nombre": "queso chedar",
+            "cantidad": "2"
+          },
+          {
+            "id": 3,
+            "nombre": "pan hamburguesa",
+            "cantidad": "1"
+          }
+        ],
+        "precio": "2000",
+        "cantidad": 2,
+        "observaciones": "una sin queso"
+      },
+      {
+        "id": 4,
+        "nombre": "otra gurguer",
+        "tipoPlato": "hamburguesas",
+        "ingredientes": [
+          {
+            "id": 8,
+            "nombre": "queso mosasrella",
+            "cantidad": "1"
+          },
+          {
+            "id": 3,
+            "nombre": "pan hamburguesa",
+            "cantidad": "1"
+          },
+          {
+            "id": 6,
+            "nombre": "hamburguesa",
+            "cantidad": "1"
+          }
+        ],
+        "precio": "2000",
+        "cantidad": 1,
+        "observaciones": ""
+      }
+    ],
+    "idMozo": 1,
+    "estadoPedido": "pendiente",
+    "precioTotal": 6000,
+    "id": 4,
+    "estado": "en proceso",
+    "horaInicio": "2024-11-04T18:45:48.187Z"
+  },
+  {
+    "idMesa": "accd",
+    "platos": [
+      {
+        "id": 1,
+        "nombre": "hamburguesa chedars",
+        "tipoPlato": "hamburguesas",
+        "ingredientes": [
+          {
+            "id": 1,
+            "nombre": "queso chedar",
+            "cantidad": "1"
+          },
+          {
+            "id": 3,
+            "nombre": "pan hamburguesa",
+            "cantidad": "1"
+          },
+          {
+            "id": 6,
+            "nombre": "hamburguesa",
+            "cantidad": "1"
+          }
+        ],
+        "precio": "2000",
+        "cantidad": 3,
+        "observaciones": "sin gluten"
+      },
+      {
+        "id": 5,
+        "nombre": "hamburguesa 2",
+        "tipoPlato": "hamburguesas",
+        "ingredientes": [
+          {
+            "id": 1,
+            "nombre": "queso chedar",
+            "cantidad": "2"
+          },
+          {
+            "id": 3,
+            "nombre": "pan hamburguesa",
+            "cantidad": "1"
+          }
+        ],
+        "precio": "2000",
+        "cantidad": 1,
+        "observaciones": ""
+      }
+    ],
+    "idMozo": 1,
+    "estadoPedido": "pendiente",
+    "precioTotal": 8000,
+    "id": 5,
+    "estado": "en proceso",
+    "horaInicio": "2024-11-04T19:46:15.478Z"
+  },
+  {
+    "idMesa": "mesa 5",
+    "platos": [
+      {
+        "id": 5,
+        "nombre": "hamburguesa 2",
+        "tipoPlato": "hamburguesas",
+        "ingredientes": [
+          {
+            "id": 1,
+            "nombre": "queso chedar",
+            "cantidad": "2"
+          },
+          {
+            "id": 3,
+            "nombre": "pan hamburguesa",
+            "cantidad": "1"
+          }
+        ],
+        "precio": "2000",
+        "cantidad": 1,
+        "observaciones": ""
+      }
+    ],
+    "idMozo": 1,
+    "estadoPedido": "pendiente",
+    "precioTotal": 2000,
+    "id": 6,
+    "estado": "en proceso",
+    "horaInicio": "2024-11-05T02:05:47.654Z"
+  }
+]

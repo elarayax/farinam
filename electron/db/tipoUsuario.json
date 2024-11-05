@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "tipo": "administrador"
+    },
+    {
+        "id": 2,
+        "tipo": "mesero"
+    },
+    {
+        "id": 3,
+        "tipo": "cocinero"
+    },
+    {
+        "id": 4,
+        "tipo": "anfitrión"
+    }
+]

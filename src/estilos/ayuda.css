@@ -1,0 +1,11 @@
+.ayuda{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    margin-right: 10px;
+}
+
+.ayuda .primary.full-size{
+    width: 100%;
+}

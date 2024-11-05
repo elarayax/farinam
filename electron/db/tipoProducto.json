@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "comida"
+  },
+  {
+    "id": 2,
+    "nombre": "aseo"
+  },
+  {
+    "id": 3,
+    "nombre": "licor"
+  }
+]

@@ -1,0 +1,13 @@
+.contenido{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.contenido .principal{
+    width: 80vw;
+}
+
+.contenido .ayuda{
+    width: 20vw;
+}

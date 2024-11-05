@@ -1,0 +1,51 @@
+.pedidos{
+    padding-left: 20px;
+}
+
+.pedidos table {
+    width: 99%; /* Adjust width as needed */
+    border-collapse: collapse;
+}
+
+.pedidos table th, .pedidos table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center; /* Center content horizontally */
+    vertical-align: middle; /* Center content vertically */
+}
+
+table.estandar th, table.estandar table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center; /* Center content horizontally */
+    vertical-align: middle; 
+}
+
+table.estandar {
+    width: 99%; /* Adjust width as needed */
+    border-collapse: collapse;
+}
+
+
+/* For long text, consider word-wrapping */
+.pedidos table td {
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+/* Adjust font size and line height as needed */
+.pedidos table th, .pedidos table td {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.pedidos table thead{
+    color: var(--secondary);
+    background-color: var(--primary);
+}
+
+.pedidos table t {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

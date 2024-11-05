@@ -1,0 +1,36 @@
+[
+  {
+    "nombre": "salón principal",
+    "mesas": [
+      {
+        "numero": "accd",
+        "estado": "disponible",
+        "cantidadPersonas": 0,
+        "pedidoActual": 1
+      },
+      {
+        "numero": "mesa 5",
+        "estado": "disponible",
+        "cantidadPersonas": 0,
+        "pedidoActual": 1
+      }
+    ]
+  },
+  {
+    "nombre": "terraza",
+    "mesas": [
+      {
+        "numero": "nesa 4",
+        "estado": "disponible",
+        "cantidadPersonas": 0,
+        "pedidoActual": null
+      },
+      {
+        "numero": "mesa 6",
+        "estado": "disponible",
+        "cantidadPersonas": 0,
+        "pedidoActual": 2
+      }
+    ]
+  }
+]

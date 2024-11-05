@@ -1,0 +1,23 @@
+.rutas{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    background-color: #192736;
+    color: #fff;
+    padding: 16px;
+}
+
+.rutas a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.rutas a:hover{
+    color: var(--tersary);
+}
+
+.rutas img{
+    width: 100px;
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "nombre": "queso chedar",
+    "cantidad": 29,
+    "medida": "unidad",
+    "tipoProducto": "comida",
+    "stock": -4
+  },
+  {
+    "id": 2,
+    "nombre": "queso",
+    "cantidad": "50",
+    "medida": "unidad",
+    "tipoProducto": "comida"
+  },
+  {
+    "id": 3,
+    "nombre": "pan hamburguesa",
+    "cantidad": 25,
+    "medida": "unidad",
+    "tipoProducto": "comida",
+    "stock": -5
+  },
+  {
+    "id": 4,
+    "nombre": "papel",
+    "cantidad": "20",
+    "medida": "unidad",
+    "tipoProducto": "aseo"
+  },
+  {
+    "id": 5,
+    "nombre": "bebida",
+    "cantidad": "20",
+    "medida": "kilo",
+    "tipoProducto": "licor"
+  },
+  {
+    "id": 6,
+    "nombre": "hamburguesa",
+    "cantidad": 31,
+    "medida": "unidad",
+    "tipoProducto": "comida",
+    "stock": -6
+  },
+  {
+    "id": 7,
+    "nombre": "s",
+    "cantidad": "222",
+    "medida": "kilo",
+    "tipoProducto": "aseo"
+  },
+  {
+    "id": 8,
+    "nombre": "queso mosasrella",
+    "cantidad": 123105,
+    "medida": "unidad",
+    "tipoProducto": "comida",
+    "stock": -1
+  },
+  {
+    "id": 9,
+    "nombre": "mayonesa",
+    "cantidad": "2000",
+    "medida": "kilo",
+    "tipoProducto": "comida"
+  },
+  {
+    "id": 10,
+    "nombre": "sandwich queso",
+    "cantidad": "10",
+    "medida": "unidad",
+    "tipoProducto": "comida"
+  }
+]

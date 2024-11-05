@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "nombre": "hamburguesa chedars",
+    "tipoPlato": "hamburguesas",
+    "ingredientes": [
+      {
+        "id": 1,
+        "nombre": "queso chedar",
+        "cantidad": "1"
+      },
+      {
+        "id": 3,
+        "nombre": "pan hamburguesa",
+        "cantidad": "1"
+      },
+      {
+        "id": 6,
+        "nombre": "hamburguesa",
+        "cantidad": "1"
+      }
+    ],
+    "precio": "2000"
+  },
+  {
+    "id": 5,
+    "nombre": "hamburguesa 2",
+    "tipoPlato": "hamburguesas",
+    "ingredientes": [
+      {
+        "id": 1,
+        "nombre": "queso chedar",
+        "cantidad": "2"
+      },
+      {
+        "id": 3,
+        "nombre": "pan hamburguesa",
+        "cantidad": "1"
+      }
+    ],
+    "precio": "2000"
+  },
+  {
+    "id": 3,
+    "nombre": "asdfasdf",
+    "tipoPlato": "papel",
+    "ingredientes": [
+      {
+        "id": 4,
+        "nombre": "papel",
+        "cantidad": "324234234"
+      }
+    ],
+    "precio": "2000"
+  },
+  {
+    "id": 4,
+    "nombre": "otra gurguer",
+    "tipoPlato": "hamburguesas",
+    "ingredientes": [
+      {
+        "id": 8,
+        "nombre": "queso mosasrella",
+        "cantidad": "1"
+      },
+      {
+        "id": 3,
+        "nombre": "pan hamburguesa",
+        "cantidad": "1"
+      },
+      {
+        "id": 6,
+        "nombre": "hamburguesa",
+        "cantidad": "1"
+      }
+    ],
+    "precio": "2000"
+  },
+  {
+    "id": 5,
+    "nombre": "sandwich queso",
+    "tipoPlato": "hamburguesas",
+    "ingredientes": [
+      {
+        "nombre": "sandwich queso",
+        "cantidad": "10"
+      }
+    ],
+    "precio": "2500"
+  }
+]
